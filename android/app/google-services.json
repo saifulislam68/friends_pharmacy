@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369904689149",
+    "project_id": "friendspharmacy-45490",
+    "storage_bucket": "friendspharmacy-45490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369904689149:android:a69028749ac5018ff14394",
+        "android_client_info": {
+          "package_name": "com.example.friends_pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369904689149-lmssviqsqj4va34tqr3snrhgaqgl6bou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiPnu3DJJTlKeRs7QmXNUuFUWaJWKFfr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369904689149-lmssviqsqj4va34tqr3snrhgaqgl6bou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
